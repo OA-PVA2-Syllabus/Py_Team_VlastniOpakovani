@@ -1,4 +1,4 @@
-# PVA4 - Programování a vývoj aplikací
+# PVA2 - Programování a vývoj aplikací
 ## Team: Vlastní opakování
 
 Preambule
